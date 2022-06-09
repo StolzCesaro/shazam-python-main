@@ -1,0 +1,4 @@
+1. Instalare librari: `pip install -r requirements.txt`
+2. Creăm colectie de fisere `.wav` in  `data/` din MP3-uri
+3. Creăm baza de date cu ajutorul programului `create_database.py`
+4. Flosim fișerul `find_match.py` pentru a compara melodai cu cele din baza de date
